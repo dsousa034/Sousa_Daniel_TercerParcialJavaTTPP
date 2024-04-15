@@ -1,3 +1,5 @@
+package Ejercicio1;
+
 abstract class Elemento {
     int codigo;
     double precio;
