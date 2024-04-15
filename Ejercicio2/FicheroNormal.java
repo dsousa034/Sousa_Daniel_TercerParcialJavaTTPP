@@ -12,11 +12,11 @@ public class FicheroNormal implements Fichero{
 
     @Override
     public String getNombre() {
-        return null;
+        return nombre;
     }
 
     @Override
     public int getTamano() {
-        return 0;
+        return tamano;
     }
 }
