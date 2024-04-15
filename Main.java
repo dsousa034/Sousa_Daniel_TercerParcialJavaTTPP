@@ -1,4 +1,5 @@
 public class Main {
+
     public static void main(String[] args) {
         ElementoSimple silla = new ElementoSimple(1, 50.0);
         ElementoSimple mesa = new ElementoSimple(2, 100.0);

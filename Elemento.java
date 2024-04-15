@@ -14,12 +14,4 @@ abstract class Elemento {
     public double getPrecio() {
         return precio;
     }
-
-    public void setPrecio(double precio) {
-        this.precio = precio;
-    }
-
-    public void setCodigo(int codigo) {
-        this.codigo = codigo;
-    }
 }
